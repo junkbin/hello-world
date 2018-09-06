@@ -1,0 +1,13 @@
+.container{
+    height: 98vh;
+    background: tomato;
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: x-large;
+    font-weight: bold;
+    border-radius: 5px;
+
+    display : flex;
+    justify-content: center;
+    align-items: center;
+}
